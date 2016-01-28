@@ -1,5 +1,12 @@
-# CRON-Tester
-Vagrant box to setup env for testing php stuff
+# PHP5-Tester
+
+    Vagrant box to setup env for testing php stuff
+
+### Requirements
+
+    brew install vagrant
+    brew cask install virtualbox --appdir=~/Applications
+    vagrant plugin install vagrant-vbguest
 
 ### Usage
 
